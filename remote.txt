@@ -1,3 +1,4 @@
 222222222222
 dddddddddd
 第三次修改
+Git has a mutable index called stage.
