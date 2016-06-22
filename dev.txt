@@ -1,2 +1,8 @@
 111111111
+<<<<<<< HEAD
 modify by me
+=======
+modify by other
+>>>>>>> fae101693abbad46de2ad44da4e671a6f5ebc57c
+
+再添加一些
